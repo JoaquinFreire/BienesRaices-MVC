@@ -1,0 +1,8 @@
+@include tablet {
+    .nosotros {
+        @include grid(2, 2rem);
+    }
+    .parrafo1-nosotros {
+        margin-top: 4rem;
+    }
+}
